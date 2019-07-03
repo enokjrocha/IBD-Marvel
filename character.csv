@@ -1,0 +1,342 @@
+id,Name,gender,eye_color,race,hair_color,height,skin_color,alignment,weight
+1,A-Bomb,Male,yellow,Human,No Hair,203,-,good,441
+4,Abomination,Male,green,Human / Radiation,No Hair,203,-,bad,441
+5,Abraxas,Male,blue,Cosmic Entity,Black,-99,-,bad,-99
+6,Absorbing Man,Male,blue,Human,No Hair,193,-,bad,122
+9,Agent Bob,Male,brown,Human,Brown,178,-,good,81
+10,Agent Zero,Male,-,-,-,191,-,good,104
+11,Air-Walker,Male,blue,-,White,188,-,bad,108
+12,Ajax,Male,brown,Cyborg,Black,193,-,bad,90
+19,Ammo,Male,brown,Human,Black,188,-,bad,101
+21,Angel,Male,blue,-,Blond,183,-,good,68
+22,Angel Dust,Female,yellow,Mutant,Black,165,-,good,57
+23,Angel Salvadore,Female,brown,-,Black,163,-,good,54
+26,Annihilus,Male,green,-,No Hair,180,-,bad,90
+27,Ant-Man,Male,blue,Human,Blond,211,-,good,122
+28,Ant-Man II,Male,blue,Human,Blond,183,-,good,86
+31,Anti-Venom,Male,blue,Symbiote,Blond,229,-,-,358
+32,Apocalypse,Male,red,Mutant,Black,213,grey,bad,135
+36,Arachne,Female,blue,Human,Blond,175,-,good,63
+37,Archangel,Male,blue,Mutant,Blond,183,blue,good,68
+38,Arclight,Female,violet,-,Purple,173,-,bad,57
+39,Ardina,Female,white,Alien,Orange,193,gold,good,98
+40,Ares,Male,brown,-,Brown,185,-,good,270
+41,Ariel,Female,purple,-,Pink,165,-,good,59
+42,Armor,Female,black,-,Black,163,-,good,50
+44,Atlas,Male,brown,Mutant,Red,183,-,good,101
+50,Aurora,Female,blue,Mutant,Black,180,-,good,63
+51,Azazel,Male,yellow,Neyaphem,Black,183,red,bad,67
+56,Banshee,Male,green,Human,Strawberry Blond,183,-,good,77
+57,Bantam,Male,brown,-,Black,165,-,good,54
+63,Battlestar,Male,brown,-,Black,198,-,good,133
+65,Beak,Male,black,-,White,175,-,good,63
+66,Beast,Male,blue,Mutant,Blue,180,blue,good,181
+69,Beta Ray Bill,Male,-,-,No Hair,201,-,good,216
+70,Beyonder,Male,-,God / Eternal,-,-99,-,good,-99
+73,Big Man,Male,blue,-,Brown,165,-,bad,71
+76,Binary,Female,blue,-,Blond,180,-,good,54
+78,Bird-Brain,-,-,-,-,-99,-,good,-99
+79,Bird-Man,Male,-,Human,-,-99,-,bad,-99
+80,Bird-Man II,Male,-,Human,-,-99,-,bad,-99
+82,Bishop,Male,brown,Mutant,No Hair,198,-,good,124
+85,Black Abbott,Male,red,-,Black,-99,-,bad,-99
+87,Black Bolt,Male,blue,Inhuman,Black,188,-,good,95
+89,Black Cat,Female,green,Human,Blond,178,-,good,54
+91,Black Knight III,Male,brown,Human,Brown,183,-,good,86
+93,Black Mamba,Female,green,-,Black,170,-,bad,52
+95,Black Panther,Male,brown,Human,Black,183,-,good,90
+97,Black Widow,Female,green,Human,Auburn,170,-,good,59
+98,Blackout,Male,red,Demon,White,191,white,bad,104
+99,Blackwing,Male,blue,-,Black,185,-,bad,86
+100,Blackwulf,Male,red,Alien,White,188,-,-,88
+101,Blade,Male,brown,Vampire,Black,188,-,good,97
+102,Bling!,Female,-,-,-,168,-,good,68
+103,Blink,Female,green,Mutant,Magenta,165,pink,good,56
+104,Blizzard,Male,-,-,-,-99,-,bad,-99
+104,Blizzard,Male,-,-,Brown,-99,-,bad,-99
+105,Blizzard II,Male,brown,-,Brown,175,-,bad,77
+106,Blob,Male,brown,-,Brown,178,-,bad,230
+107,Bloodaxe,Female,blue,Human,Brown,218,-,bad,495
+108,Bloodhawk,Male,black,Mutant,No Hair,-99,-,good,-99
+109,Bloodwraith,Male,white,-,No Hair,30.5,-,bad,-99
+116,Boom-Boom,Female,blue,Mutant,Blond,165,-,good,55
+118,Box IV,-,brown,-,Brown / Black,-99,-,good,-99
+122,Brother Voodoo,Male,brown,Human,Brown / White,183,-,good,99
+125,Bullseye,Male,blue,Human,blond,183,-,bad,90
+127,Bumbleboy,Male,-,-,-,-99,-,good,-99
+129,Cable,Male,blue,Mutant,White,203,-,good,158
+130,Callisto,Female,blue,-,Black,175,-,bad,74
+132,Cannonball,Male,blue,-,Blond,183,-,good,81
+133,Captain America,Male,blue,Human,blond,188,-,good,108
+135,Captain Britain,Male,blue,Human,Blond,198,-,good,116
+139,Captain Marvel,Female,blue,Human-Kree,Blond,180,-,good,74
+142,Captain Planet,Male,red,God / Eternal,Green,-99,-,good,-99
+143,Captain Universe,-,-,God / Eternal,-,-99,-,good,-99
+144,Carnage,Male,green,Symbiote,Red,185,-,bad,86
+145,Cat,Female,blue,-,Blond,173,-,good,61
+147,Century,Male,white,Alien,White,201,grey,good,97
+148,Cerebra,Female,-,Mutant,-,-99,-,good,-99
+149,Chamber,Male,brown,Mutant,Brown,175,-,good,63
+151,Changeling,Male,brown,-,Black,180,-,bad,81
+160,Cloak,Male,brown,-,black,226,-,good,70
+162,Colossus,Male,silver,Mutant,Black,226,-,good,225
+164,Copycat,Female,red,Mutant,White,183,blue,neutral,67
+165,Cottonmouth,Male,brown,Human,Black,183,-,bad,99
+166,Crimson Crusader,Male,blue,-,Strawberry Blond,-99,-,good,-99
+167,Crimson Dynamo,Male,brown,-,No Hair,180,-,good,104
+168,Crystal,Female,green,Inhuman,Red,168,-,good,50
+173,Cyclops,Male,brown,Mutant,Brown,191,-,good,88
+175,Dagger,Female,blue,-,Blond,165,-,good,52
+177,Daredevil,Male,blue,Human,Red,183,-,good,90
+178,Darkhawk,Male,brown,Human,Brown,185,-,good,81
+181,Darkstar,Female,brown,Mutant,Blond,168,-,good,56
+186,Dazzler,Female,blue,Mutant,Blond,173,-,good,52
+188,Deadpool,Male,brown,Mutant,No Hair,188,-,neutral,95
+190,Deathlok,Male,brown,Cyborg,Grey,193,-,good,178
+193,Demogoblin,Male,red,Demon,No Hair,185,-,bad,95
+194,Destroyer,Male,-,-,-,188,-,bad,383
+195,Diamondback,Male,brown,Human,Black,193,-,bad,90
+196,Doc Samson,Male,blue,Human / Radiation,Green,198,-,good,171
+197,Doctor Doom,Male,brown,Human,Brown,201,-,bad,187
+198,Doctor Doom II,Male,brown,-,Brown,201,-,bad,132
+200,Doctor Octopus,Male,brown,Human,Brown,175,-,bad,110
+202,Doctor Strange,Male,grey,Human,Black,188,-,good,81
+203,Domino,Female,blue,Human,Black,173,white,good,54
+207,Doppelganger,Male,white,-,No Hair,196,-,bad,104
+208,Dormammu,Male,yellow,-,No Hair,185,-,bad,-99
+210,Drax the Destroyer,Male,red,Human / Altered,No Hair,193,green,good,306
+211,Ego,-,-,-,-,-99,-,bad,-99
+213,Electro,Male,blue,Human,Auburn,180,-,bad,74
+214,Elektra,Female,blue,Human,Black,175,-,good,59
+217,Emma Frost,Female,blue,-,Blond,178,-,good,65
+222,Evil Deadpool,Male,white,Mutant,Red,188,-,bad,95
+223,Evilhawk,Male,red,Alien,Black,191,green,bad,106
+224,Exodus,Male,blue,Mutant,Black,183,red,bad,88
+225,Fabian Cortez,-,blue,-,Brown,196,-,bad,96
+226,Falcon,Male,brown,Human,Black,188,-,good,108
+227,Fallen One II,Male,black,-,Blue,-99,-,bad,-99
+229,Feral,-,yellow (without irises),-,Orange / White,175,-,good,50
+231,Fin Fang Foom,Male,red,Kakarantharaian,No Hair,975,green,good,18
+233,Firebird,Female,brown,-,Black,165,-,good,56
+234,Firelord,-,white,-,Yellow,193,-,good,99
+235,Firestar,Female,green,Mutant,Red,173,-,good,56
+242,Forge,-,brown,-,Black,183,-,good,81
+243,Franklin Richards,Male,blue,Mutant,Blond,142,-,good,45
+244,Frenzy,Female,brown,-,Black,211,-,bad,104
+245,Frigga,Female,blue,-,White,180,-,good,167
+246,Galactus,Male,black,Cosmic Entity,Black,876,-,neutral,16
+247,Gambit,Male,red,Mutant,Brown,185,-,good,81
+248,Gamora,Female,yellow,Zen-Whoberian,Black,183,green,good,77
+252,Genesis,Male,blue,-,Blond,185,-,good,86
+253,Ghost Rider,Male,red,Demon,No Hair,188,-,good,99
+254,Ghost Rider II,-,-,-,-,-99,-,good,-99
+256,Gladiator,Male,blue,Strontian,Blue,198,purple,neutral,268
+257,Goblin Queen,Female,green,-,Red,168,-,bad,50
+261,Goliath IV,Male,brown,-,Black,183,-,good,90
+264,Gravity,Male,blue,Human,Brown,178,-,good,79
+267,Green Goblin,Male,blue,Human,Auburn,180,-,bad,83
+268,Green Goblin II,Male,blue,-,Auburn,178,-,bad,77
+269,Green Goblin III,Male,-,-,-,183,-,good,88
+270,Green Goblin IV,Male,green,-,Brown,178,-,good,79
+271,Groot,Male,yellow,Flora Colossus,-,701,-,good,4
+278,Havok,Male,blue,Mutant,Blond,183,-,good,79
+280,Hawkeye,Male,blue,Human,Blond,191,-,good,104
+281,Hawkeye II,Female,blue,Human,Black,165,-,good,57
+285,Hela,Female,green,Asgardian,Black,213,-,bad,225
+287,Hellcat,Female,blue,Human,Red,173,-,good,61
+289,Hellstorm,Male,red,-,Red,185,-,good,81
+290,Hercules,Male,blue,Demi-God,Brown,196,-,good,146
+293,Hobgoblin,Male,blue,-,Grey,180,-,bad,83
+294,Hollow,Female,blue,-,Red,170,-,good,-99
+295,Hope Summers,Female,green,-,Red,168,-,good,48
+296,Hulk,Male,green,Human / Radiation,Green,244,green,good,630
+297,Human Torch,Male,blue,Human / Radiation,Blond,178,-,good,77
+299,Husk,Female,blue,Mutant,Blond,170,-,good,58
+300,Hybrid,Male,brown,Symbiote,Black,175,-,good,77
+301,Hydro-Man,Male,brown,-,Brown,188,-,bad,119
+302,Hyperion,Male,blue,Eternal,Red,183,-,good,207
+303,Iceman,Male,brown,Mutant,Brown,173,-,good,65
+307,Ink,Male,blue,Mutant,No Hair,180,-,good,81
+308,Invisible Woman,Female,blue,Human / Radiation,Blond,168,-,good,54
+309,Iron Fist,Male,blue,Human,Blond,180,-,good,79
+310,Iron Man,Male,blue,Human,Black,198,-,good,191
+311,Iron Monger,Male,blue,-,No Hair,-99,-,bad,2
+314,Jack of Hearts,Male,blue / white,Human,Brown,155,-,good,79
+320,Jean Grey,Female,green,Mutant,Red,168,-,good,52
+322,Jennifer Kale,Female,blue,-,Blond,168,-,good,55
+324,Jessica Jones,Female,brown,Human,Brown,170,-,good,56
+329,John Wraith,Male,brown,-,Black,183,-,good,88
+331,Jolt,Female,blue,-,Black,165,-,good,49
+332,Jubilee,Female,red,Mutant,Black,165,-,good,52
+334,Juggernaut,Male,blue,Human,Red,287,-,neutral,855
+335,Junkpile,Male,-,Mutant,-,-99,-,bad,-99
+336,Justice,Male,hazel,Human,Brown,178,-,good,81
+338,Kang,Male,brown,-,Brown,191,-,bad,104
+350,Klaw,Male,red,Human,No Hair,188,red,bad,97
+352,Kraven II,Male,brown,Human,Black,191,-,bad,99
+353,Kraven the Hunter,Male,brown,Human,Black,183,-,bad,106
+357,Lady Bullseye,Female,-,-,Black,-99,-,bad,-99
+358,Lady Deathstrike,Female,brown,Cyborg,Black,175,-,bad,58
+360,Leader,Male,green,-,No Hair,178,-,bad,63
+361,Leech,Male,-,-,-,-99,-,good,-99
+362,Legion,Male,green / blue,Mutant,Black,175,-,good,59
+369,Living Brain,-,yellow,-,-,198,-,bad,360
+370,Living Tribunal,-,blue,Cosmic Entity,No Hair,-99,gold,neutral,-99
+372,Lizard,Male,red,Human,No Hair,203,-,bad,230
+374,Loki,Male,green,Asgardian,Black,193,-,bad,236
+375,Longshot,Male,blue,Human,Blond,188,-,good,36
+377,Luke Cage,Male,brown,Human,Black,198,-,good,191
+380,Luna,Female,-,Human,-,-99,-,good,-99
+381,Lyja,Female,green,-,Green,-99,-,good,-99
+383,Mach-IV,Male,brown,-,Brown,180,-,bad,79
+384,Machine Man,-,red,-,Black,183,-,good,383
+385,Magneto,Male,grey,Mutant,White,188,-,bad,86
+387,Magus,Male,black,-,-,183,-,bad,-99
+390,Man-Thing,Male,red,-,No Hair,213,green,good,225
+391,Man-Wolf,Male,brown,-,Auburn,188,-,good,90
+392,Mandarin,Male,blue,Human,White,188,-,bad,97
+393,Mantis,Female,green,Human-Kree,Black,168,green,good,52
+395,Marvel Girl,Female,green,-,Red,170,-,good,56
+400,Maverick,Male,blue,-,Black,193,-,good,110
+403,Medusa,Female,green,Inhuman,Red,180,-,good,59
+404,Meltdown,Female,blue,-,Blond,165,-,good,54
+405,Mephisto,Male,white,-,Black,198,-,bad,140
+413,Mimic,Male,brown,-,Brown,188,-,good,101
+417,Mister Fantastic,Male,brown,Human / Radiation,Brown,185,-,good,81
+419,Mister Knife,Male,blue,Spartoi,Brown,-99,-,bad,-99
+421,Mister Sinister,Male,red,Human / Altered,Black,196,-,bad,128
+422,Mockingbird,Female,blue,Human,Blond,175,-,good,61
+382,MODOK,Male,white,Cyborg,Brownn,366,-,bad,338
+424,Molten Man,Male,gold,-,Gold,196,-,bad,248
+427,Moon Knight,Male,brown,Human,Brown,188,-,good,101
+428,Moonstone,Female,blue,-,Blond,180,-,bad,59
+429,Morlun,Male,white / red,-,Black,188,-,bad,79
+430,Moses Magnum,Male,brown,-,Black,175,-,bad,72
+431,Mr Immortal,Male,blue,Mutant,Blond,188,-,good,70
+433,Ms Marvel II,Female,blue,-,Red,173,-,good,61
+434,Multiple Man,Male,blue,-,Brown,180,-,good,70
+435,Mysterio,Male,brown,Human,No Hair,180,-,bad,79
+436,Mystique,Female,yellow (without irises),Mutant,Red / Orange,178,blue,bad,54
+437,Namor,Male,-,-,-,-99,-,good,-99
+437,Namor,Male,grey,Atlantean,Black,188,-,good,125
+438,Namora,Female,blue,-,Blond,180,-,good,85
+439,Namorita,Female,blue,-,Blond,168,-,good,101
+442,Nebula,Female,blue,Luphomoid,No Hair,185,blue,bad,83
+443,Negasonic Teenage Warhead,Female,black,Mutant,Black,-99,-,good,-99
+444,Nick Fury,Male,brown,Human,Brown / White,185,-,good,99
+445,Nightcrawler,Male,yellow,-,Indigo,175,-,good,88
+449,Northstar,Male,blue,-,Black,180,-,good,83
+450,Nova,Male,brown,Human,Brown,185,-,good,86
+450,Nova,Female,white,Human / Cosmic,Red,163,gold,good,59
+451,Odin,Male,blue,God / Eternal,White,206,-,good,293
+455,One-Above-All,-,-,Cosmic Entity,-,-99,-,neutral,-99
+456,Onslaught,Male,red,Mutant,No Hair,305,-,bad,405
+464,Penance II,Male,blue,-,Blond,183,-,good,89
+469,Phoenix,Female,green,Mutant,Red,168,-,good,52
+470,Plantman,Male,green,Mutant,Grey,183,-,bad,87
+474,Polaris,Female,green,Mutant,Green,170,-,good,52
+477,Professor X,Male,blue,Mutant,No Hair,183,-,good,86
+479,Proto-Goblin,Male,green,-,Blond,-99,-,bad,-99
+480,Psylocke,Female,blue,Mutant,Purple,180,-,good,70
+481,Punisher,Male,blue,Human,Black,183,-,good,90
+482,Purple Man,Male,purple,Human,Purple,180,purple,bad,74
+483,Pyro,Male,blue,-,Blond,178,-,bad,68
+488,Quicksilver,Male,blue,Mutant,Silver,183,-,good,79
+489,Quill,Male,brown,-,Brown,163,-,good,56
+496,Razor-Fist II,Male,blue,-,No Hair,191,-,bad,117
+500,Red Hulk,Male,yellow,Human / Radiation,Black,213,red,neutral,630
+503,Red Skull,Male,blue,-,No Hair,188,-,bad,108
+508,Rhino,Male,brown,Human / Radiation,Brown,196,-,bad,320
+512,Ripcord,Female,green,-,Black,180,-,good,72
+518,Rocket Raccoon,Male,brown,Animal,Brown,122,-,good,25
+519,Rogue,Female,green,-,Brown / White,173,-,good,54
+522,Sabretooth,Male,amber,Mutant,Blond,198,-,bad,171
+523,Sage,Female,blue,-,Black,170,-,good,61
+524,Sandman,Male,brown,Human,Brown,185,-,neutral,203
+525,Sasquatch,Male,red,-,Orange,305,-,good,900
+529,Scarlet Spider,Male,blue,Human,Blond,178,-,good,74
+530,Scarlet Spider II,Male,brown,Clone,Brown,193,-,good,113
+531,Scarlet Witch,Female,blue,Mutant,Brown,170,-,bad,59
+532,Scorpia,Female,green,-,Red,-99,-,bad,-99
+533,Scorpion,Male,brown,Human,Brown,211,-,bad,310
+534,Sebastian Shaw,Male,-,Mutant,-,-99,-,bad,-99
+535,Sentry,Male,blue,Mutant,Blond,188,-,neutral,87
+536,Shadow King,-,red,-,-,185,-,good,149
+538,Shadowcat,Female,hazel,Mutant,Brown,168,-,good,50
+539,Shang-Chi,Male,brown,Human,Black,178,-,good,79
+540,Shatterstar,Male,brown,-,Red,191,-,good,88
+541,She-Hulk,Female,green,Human,Green,201,-,good,315
+542,She-Thing,Female,blue,Human / Radiation,No Hair,183,-,good,153
+543,Shocker,Male,brown,Human,Brown,175,-,bad,79
+544,Shriek,Female,yellow / blue,-,Black,173,-,good,52
+545,Sif,Female,blue,Asgardian,Black,188,-,good,191
+546,Silk,Female,brown,Human,Black,-99,-,good,-99
+549,Silver Surfer,Male,white,Alien,No Hair,193,silver,good,101
+550,Silverclaw,Female,brown,-,Black,157,-,good,50
+555,Siryn,Female,blue,-,Strawberry Blond,168,-,bad,52
+556,Skaar,Male,green,-,Black,198,-,good,180
+557,Snowbird,Female,white,-,Blond,178,-,good,49
+560,Songbird,Female,green,-,Red / White,165,-,good,65
+564,Speedball,Male,-,-,-,-99,-,good,-99
+566,Spider-Girl,Female,blue,Human,Brown,170,-,good,54
+567,Spider-Gwen,Female,blue,Human,Blond,165,-,good,56
+568,Spider-Man,Male,hazel,Human,Brown,178,-,good,74
+664,Spider-Man I,-,red,Human,Brown,178,-,good,77
+665,Spider-Man II,Male,brown,Human,Black,157,-,good,56
+569,Spider-Woman,Female,green,Human,Black,178,-,good,59
+570,Spider-Woman III,Female,brown,-,Brown,173,-,good,55
+571,Spider-Woman IV,Female,red,-,White,178,-,bad,58
+573,Spyke,Male,brown,Mutant,Blond,183,-,good,83
+574,Star-Lord,Male,blue,Human-Spartoi,Blond,188,-,good,79
+575,Stardust,Male,-,-,-,-99,-,good,-99
+582,Storm,Female,blue,Mutant,White,180,-,good,57
+585,Sunspot,Male,brown,Mutant,black,173,-,good,77
+591,Swarm,Male,yellow,Mutant,No Hair,196,yellow,bad,47
+593,Synch,Male,brown,-,Black,180,-,good,74
+599,Taskmaster,Male,brown,Human,Brown,188,-,bad,99
+600,Tempest,Female,brown,-,Black,163,-,good,54
+601,Thanos,Male,red,Eternal,No Hair,201,purple,bad,443
+604,Thing,Male,blue,Human / Radiation,No Hair,183,-,good,225
+605,Thor,Male,blue,Asgardian,Blond,198,-,good,288
+606,Thor Girl,Female,blue,Asgardian,Blond,175,-,good,143
+607,Thunderbird,Male,brown,-,Black,185,-,good,101
+608,Thunderbird III,Male,brown,-,Black,175,-,good,74
+609,Thunderstrike,Male,blue,-,Blond,198,-,good,288
+610,Thundra,Female,green,-,Red,218,-,good,158
+611,Tiger Shark,Male,grey,Human,No Hair,185,grey,bad,203
+612,Tigra,Female,green,-,Auburn,178,-,good,81
+613,Tinkerer,Male,brown,-,White,163,-,bad,54
+615,Toad,Male,black,Mutant,Brown,175,green,neutral,76
+617,Toxin,Male,blue,Symbiote,Brown,188,-,good,97
+617,Toxin,Male,black,Symbiote,Blond,191,-,good,117
+622,Triton,Male,green,Inhuman,No Hair,188,green,good,86
+624,Ultragirl,Female,blue,-,Blond,168,-,good,105
+625,Ultron,Male,red,Android,-,206,silver,bad,331
+626,Utgard-Loki,Male,blue,Frost Giant,White,15.2,-,bad,58
+628,Valkyrie,Female,blue,-,Blond,191,-,good,214
+629,Vanisher,Male,green,-,No Hair,165,-,bad,79
+631,Venom,Male,blue,Symbiote,Strawberry Blond,191,-,bad,117
+632,Venom II,Male,brown,-,Black,175,-,bad,50
+633,Venom III,Male,brown,Symbiote,Brown,229,-,bad,334
+634,Venompool,Male,-,Symbiote,-,226,-,-,-99
+635,Vertigo II,Female,blue,-,Silver,168,-,good,52
+637,Vindicator,Female,green,Human,Red,165,-,good,54
+637,Vindicator,Male,-,-,-,-99,-,good,-99
+640,Vision,Male,gold,Android,No Hair,191,red,good,135
+642,Vulture,Male,brown,Human,No Hair,180,-,bad,79
+643,Walrus,Male,blue,Human,Black,183,-,bad,162
+644,War Machine,Male,brown,Human,Brown,185,-,good,95
+645,Warlock,Male,red,-,Blond,188,-,good,108
+647,Warpath,Male,brown,Mutant,Black,218,-,good,158
+648,Wasp,Female,blue,Human,Auburn,163,-,good,50
+649,Watcher,Male,-,-,-,-99,-,good,-99
+650,Weapon XI,Male,-,-,-,-99,-,bad,-99
+653,Winter Soldier,Male,brown,Human,Brown,175,-,good,117
+654,Wolfsbane,Female,green,-,Auburn,366,-,good,473
+655,Wolverine,Male,blue,Mutant,Black,160,-,good,135
+657,Wonder Man,Male,red,-,Black,188,-,good,171
+659,X-23,Female,green,Mutant / Clone,Black,155,-,good,50
+660,X-Man,Male,blue,-,Brown,175,-,good,61
+661,Yellowjacket,Male,blue,Human,Blond,183,-,good,83
+662,Yellowjacket II,Female,blue,Human,Strawberry Blond,165,-,good,52
+663,Ymir,Male,white,Frost Giant,No Hair,304.8,white,good,-99
